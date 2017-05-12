@@ -4,8 +4,8 @@
 // @description bondoraPro
 // @include         *bondora.com/en/secondmarket*
 // @version     1
-// @updateURL       https://github.com/Aikoku/BondoraHelper/blob/master/BondoraScript.user.js
-// @downloadURL     https://github.com/Aikoku/BondoraHelper/blob/master/BondoraScript.user.js
+// @updateURL       https://github.com/konstantinsp/bondora/blob/master/bondora.user.js
+// @downloadURL     https://github.com/konstantinsp/bondora/blob/master/bondora.user.js
 // @grant       none
 // @run-at      document-end
 // ==/UserScript==
