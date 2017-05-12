@@ -9,7 +9,7 @@
 // @grant       none
 // @run-at      document-end
 // ==/UserScript==
-
+//test
 
 $("#sidebar-wrapper").append("<style>#bondora-helper{position: fixed;width: 249px;top: 378px;padding: 5px;left: 0;}</style>");
 $("#sidebar-wrapper").append("<style>.kosmos-input{width: 40%;}</style>");
