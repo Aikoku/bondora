@@ -3,7 +3,7 @@
 // @author      KoSMoS
 // @description bondoraPro
 // @include         *bondora.com/en/secondmarket*
-// @version     1
+// @version     2
 // @updateURL       https://github.com/konstantinsp/bondora/blob/master/bondora.user.js
 // @downloadURL     https://github.com/konstantinsp/bondora/blob/master/bondora.user.js
 // @grant       none
